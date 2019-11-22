@@ -1,1 +1,3 @@
-class Person()
+class Person
+  def intiialize()
+end
